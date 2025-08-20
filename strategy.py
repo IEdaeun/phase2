@@ -13,7 +13,7 @@ DATA_DIR = Path("data")
 # --- 💡 주요 변경점 START ---
 # '안전 재고 일수'. 평균 30일치 수요를 안전 재고로 확보하도록 설정.
 # 이 값을 늘리면 Fill-Rate가 상승하지만, 재고 비용이 증가합니다.
-SAFETY_DAYS = 30
+SAFETY_DAYS = 50
 # --- 💡 주요 변경점 END ---
 
 
